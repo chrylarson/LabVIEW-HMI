@@ -32,7 +32,7 @@
 		</Item>
 		<Item Name="Screens" Type="Folder">
 			<Item Name="Alarms_u_1.vi" Type="VI" URL="../Screens/Alarms_u_1.vi"/>
-			<Item Name="Home_u_0.vi" Type="VI" URL="../Screens/Home_u_0.vi"/>
+			<Item Name="Home_u_1.vi" Type="VI" URL="../Screens/Home_u_1.vi"/>
 			<Item Name="Maint_u_2.vi" Type="VI" URL="../Screens/Maint_u_2.vi"/>
 			<Item Name="Recipe_u_1.vi" Type="VI" URL="../Screens/Recipe_u_1.vi"/>
 		</Item>
@@ -40,6 +40,7 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
+				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 			</Item>
 		</Item>
