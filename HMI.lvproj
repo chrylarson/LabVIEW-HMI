@@ -33,9 +33,11 @@
 		<Item Name="Screens" Type="Folder">
 			<Item Name="1_Home_u_1.vi" Type="VI" URL="../Screens/1_Home_u_1.vi"/>
 			<Item Name="5_Recipe_u_1.vi" Type="VI" URL="../Screens/5_Recipe_u_1.vi"/>
+			<Item Name="6_Select_u_1.vi" Type="VI" URL="../Screens/6_Select_u_1.vi"/>
 			<Item Name="9_Maint_u_2.vi" Type="VI" URL="../Screens/9_Maint_u_2.vi"/>
 			<Item Name="10_Alarms_u_1.vi" Type="VI" URL="../Screens/10_Alarms_u_1.vi"/>
 		</Item>
+		<Item Name="Global Alarm.vi" Type="VI" URL="../Globals/Global Alarm.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -82,6 +84,11 @@
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
+				<Item Name="Write To Spreadsheet File (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (DBL).vi"/>
+				<Item Name="Write To Spreadsheet File (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (I64).vi"/>
+				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
+				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
